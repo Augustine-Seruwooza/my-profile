@@ -1,0 +1,68 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    color: turquoise;
+   
+} 
+li{
+    display: inline;
+    text-align: center;
+}
+body{
+    background-color: teal;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: larger;
+    font-family:'Times New Roman';
+}
+h1, h3, h6{
+    text-align: center;
+    color: azure;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+.footer {
+    position: fixed;
+    
+  }
+  .fa{
+      padding: 20px;
+      font-size: 30px;
+      width: 70px;
+      text-align: center;
+      text-decoration: none;
+  }
+  ol{
+      text-align: center;
+      color: white;
+      list-style-type: none;
+  }
+  .fa:hover{
+      opacity: 0.7;
+  }
+  .fa-facebook{
+      background: #3b5998;
+      color: white;
+  }
+  .fa-twitter{
+      background: #55acee;
+      color: white;
+  }
+  .fa-whatsapp{
+    background: white;
+    color: green;
+  }
+  .fa-github{
+    background: white;
+    color: black;
+  }
+  
+th, td{
+    color: white;
+}
